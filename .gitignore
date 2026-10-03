@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secret files
+.env
+*.env
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Dataset folders
+data/
+dataset/
+datasets/
+
+# Large output folders
+outputs/
+results/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
