@@ -27,13 +27,13 @@ The project uses a dermoscopic skin-lesion dataset containing **9,547 images** a
 
 Classes:
 
-- AKIEC — Actinic Keratoses
-- BCC — Basal Cell Carcinoma
-- BKL — Benign Keratosis
-- DF — Dermatofibroma
-- MEL — Melanoma
-- NV — Melanocytic Nevi
-- VASC — Vascular Lesions
+- AKIEC - Actinic Keratoses
+- BCC - Basal Cell Carcinoma
+- BKL - Benign Keratosis
+- DF - Dermatofibroma
+- MEL - Melanoma
+- NV - Melanocytic Nevi
+- VASC - Vascular Lesions
 
 The dataset is imbalanced, so augmentation and class-balancing strategies were used to reduce majority-class dominance.
 
